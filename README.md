@@ -40,5 +40,3 @@ My current focus is making AI-powered products observable and testable across th
 I am available for focused quality assessments, test-automation projects, AI-agent and MCP security testing, and ongoing fractional Senior QA support.
 
 For project inquiries, [contact me on LinkedIn](https://www.linkedin.com/in/luiz-paulo-antunes-43116a23/).
-
-<p align="center"><sub>Public portfolio projects use synthetic data and contain no employer, customer, or production information.</sub></p>
