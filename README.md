@@ -22,6 +22,7 @@ My current work is about one question: **what evidence should be required before
 | [**LLM Agent Evaluation Lab**](https://github.com/luizpaulo-antunes/llm-agent-evaluation-lab) | Versioned behavioral evaluation, safety checks, latency and cost signals, redacted observability, and repeatable CI. |
 | [**Secure MCP Gateway Lab**](https://github.com/luizpaulo-antunes/secure-mcp-gateway-lab) | Authentication, least-privilege authorization, rate limiting, redacted audit events, and real MCP integration tests. |
 | [**MCP Agent Quality Lab**](https://github.com/luizpaulo-antunes/mcp-agent-quality-lab) | API, contract, E2E, and behavioral testing for an agent that uses MCP tools, including grounding, privacy, and safe failures. |
+| [**Anatomia Viva 3D**](https://github.com/luizpaulo-antunes/anatomia-viva-3d) | A human–AI collaboration case study: a local-first Python desktop product integrating versioned anatomical sources, 3D data pipelines, integrity checks, automated tests, and Windows delivery. |
 
 The projects form a progression from isolated quality signals to an enforceable release decision:
 
